@@ -7,14 +7,14 @@ This application allows a user:
 - to add tags to the notes
 ![image](https://user-images.githubusercontent.com/55228345/221376551-6cc32f4c-3c81-4de7-863b-e62e4f8dffb4.png)
 - to browse through created notes
-![image](https://user-images.githubusercontent.com/55228345/221376635-a0db87ac-461b-4f01-973e-a48a868e0f58.png)
+![image](https://user-images.githubusercontent.com/55228345/221377068-52f34772-a936-4bb7-9ad0-fc0f10781291.png)
 - to filter notes with tags
-![image](https://user-images.githubusercontent.com/55228345/221376655-a0138718-8c13-4944-884d-955a3809d355.png)
-![image](https://user-images.githubusercontent.com/55228345/221376663-ee39b9c7-3a5b-4af8-946e-abb5a34e5701.png)
+![image](https://user-images.githubusercontent.com/55228345/221377073-46cee86d-370b-4120-a426-b1e4e897793e.png)
+![image](https://user-images.githubusercontent.com/55228345/221377080-78274096-221a-4b11-9ce3-1e22ed170d76.png)
 - to search for notes 
-![image](https://user-images.githubusercontent.com/55228345/221376678-7ca41fee-d6cc-43cc-848a-de840357d856.png)
+![image](https://user-images.githubusercontent.com/55228345/221377099-40cec67b-ea16-48b6-8085-57b5ad1169d0.png)
 - to edit tags 
-![image](https://user-images.githubusercontent.com/55228345/221376693-debef7d0-7d89-4b61-9245-930ce5f4a0e2.png)
+![image](https://user-images.githubusercontent.com/55228345/221377103-cffb1d89-780e-4756-97b7-65b94f6843c0.png)
 - to edit/delete notes
 ![image](https://user-images.githubusercontent.com/55228345/221376717-adaf13c8-bb83-4397-b09a-53f39d530bdf.png)
 - to use markdown text 
