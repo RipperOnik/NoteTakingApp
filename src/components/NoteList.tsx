@@ -64,7 +64,7 @@ export default function NoteList({
         <Row className="mb-4">
           <Col>
             <Form.Group controlId="title">
-              <Form.Label>Title</Form.Label>
+              <Form.Label>Search</Form.Label>
               <Form.Control
                 type="text"
                 value={title}
