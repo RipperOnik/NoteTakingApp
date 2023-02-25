@@ -15,7 +15,7 @@ This application allows a user:
 ![image](https://user-images.githubusercontent.com/55228345/221377099-40cec67b-ea16-48b6-8085-57b5ad1169d0.png)
 - to edit tags 
 ![image](https://user-images.githubusercontent.com/55228345/221377103-cffb1d89-780e-4756-97b7-65b94f6843c0.png)
-- to edit/delete notes
+- to view/edit/delete notes
 ![image](https://user-images.githubusercontent.com/55228345/221376717-adaf13c8-bb83-4397-b09a-53f39d530bdf.png)
 - to use markdown text 
 ![image](https://user-images.githubusercontent.com/55228345/221376756-e26dfb0b-1ac6-49b2-a79a-8df2634ac3e8.png)
