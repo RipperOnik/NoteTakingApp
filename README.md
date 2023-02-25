@@ -1,46 +1,23 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+# Project deployment
+The project is deployed here: https://ripperonik.github.io/NoteTakingApp/ 
+# Project description
+This application allows a user: 
+- to take notes
+![image](https://user-images.githubusercontent.com/55228345/221376520-f7ed4e1d-b048-43bc-97f0-41a33143b856.png)
+- to add tags to the notes
+![image](https://user-images.githubusercontent.com/55228345/221376551-6cc32f4c-3c81-4de7-863b-e62e4f8dffb4.png)
+- to browse through created notes
+![image](https://user-images.githubusercontent.com/55228345/221376635-a0db87ac-461b-4f01-973e-a48a868e0f58.png)
+- to filter notes with tags
+![image](https://user-images.githubusercontent.com/55228345/221376655-a0138718-8c13-4944-884d-955a3809d355.png)
+![image](https://user-images.githubusercontent.com/55228345/221376663-ee39b9c7-3a5b-4af8-946e-abb5a34e5701.png)
+- to search for notes 
+![image](https://user-images.githubusercontent.com/55228345/221376678-7ca41fee-d6cc-43cc-848a-de840357d856.png)
+- to edit tags 
+![image](https://user-images.githubusercontent.com/55228345/221376693-debef7d0-7d89-4b61-9245-930ce5f4a0e2.png)
+- to edit/delete notes
+![image](https://user-images.githubusercontent.com/55228345/221376717-adaf13c8-bb83-4397-b09a-53f39d530bdf.png)
+- to use markdown text 
+![image](https://user-images.githubusercontent.com/55228345/221376756-e26dfb0b-1ac6-49b2-a79a-8df2634ac3e8.png)
+![image](https://user-images.githubusercontent.com/55228345/221376761-6aeea4e2-cde8-470b-b909-8a3d8869c740.png)
+- to keep created notes locally 
